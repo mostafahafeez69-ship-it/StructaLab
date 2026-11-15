@@ -1,0 +1,17 @@
+STRUCTA PRO – END USER LICENCE AGREEMENT (single user)
+
+1. Licence. You get a personal, non-transferable, non-exclusive licence for one named person to use Structa Pro for the period shown on your licence key. Your name is shown on the screen and on every report.
+
+2. You may not: copy or share the file or your licence key with anyone else; resell, sublicense, rent or publish it; upload it to any website or file-sharing service; remove the licence stamp or notices; or reverse-engineer, decrypt, modify or rebrand the software, or create a product from it.
+
+3. Breach. If the file or your key is shared or resold, your licence ends immediately without refund, your key may be blocked in future versions, and the seller may file takedown notices and claims against copies found online.
+
+4. Scope and no warranty. Structa Pro solves statically determinate beams, trusses and plane frames using linear-elastic, small-deflection theory, for the model exactly as you enter it. It does not check any design code. It is provided "as is" without any warranty. Results are an aid to calculation and learning. They must be checked by a competent engineer before any use in design, construction or assessment.
+
+5. Liability. To the maximum extent the law allows, the seller is not liable for any loss or damage, direct or indirect, arising from use of Structa Pro or its results. Where liability cannot be excluded, it is limited to the price you paid.
+
+6. Academic use. You are responsible for following your institution's rules on the use of software in coursework.
+
+7. Ownership. Structa Pro and all its content remain the property of StructaLab. This licence does not transfer ownership.
+
+By unlocking Structa Pro you accept these terms.

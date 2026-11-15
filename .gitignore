@@ -1,0 +1,2 @@
+# Seller-only files must never be shipped or committed
+seller_only_DO_NOT_SHIP/
